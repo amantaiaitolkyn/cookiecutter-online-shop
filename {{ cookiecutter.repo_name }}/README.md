@@ -12,3 +12,14 @@ Install the latest Cookiecutter if you haven't installed it yet:
 ```bash
 python3 -m pip install --upgrade cookiecutter
 ```
+
+## To start a new project, run:
+
+```bash
+cookiecutter https://github.com/amantaiaitolkyn/cookiecutter-online-shop.git
+```
+
+## Installing development requirements:
+
+```pip install -r requirements.txt
+```

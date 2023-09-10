@@ -1,5 +1,5 @@
 {
-    "project_name": "project_name",
+    "project_name": "online_shop",
     "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-    "author": "name"
+    "author": "Anonymous"
   }
